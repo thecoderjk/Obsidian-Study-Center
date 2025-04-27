@@ -17,24 +17,20 @@
 15. [ ] **Waves**
 
 ## Chemistry Syllabus
-1. Some Basic Concepts of Chemistry
-    
-2. Structure of Atom
-    
-3. Classification of Elements and Periodicity in Properties
-    
-4. Chemical Bonding and Molecular Structure
-    
-5. States of Matter
-    
-6. Thermodynamics
-    
-7. Equilibrium
-    
-8. Redox Reactions
-9. Hydrogen
-10. The s-Block Elements
-11. The p-Block Elements
-12. Organic Chemistry – Some Basic Principles and Techniques
-13. Hydrocarbons
-14. Environmental Chemistry
+
+1. [ ] Some Basic Concepts of Chemistry
+2. [ ] Structure of Atom
+3. [ ] Classification of Elements and Periodicity in Properties
+4. [ ] Chemical Bonding and Molecular Structure
+5. [ ] States of Matter
+6. [ ] Thermodynamics
+7. [ ] Equilibrium
+8. [ ] Redox Reactions
+9. [ ] Hydrogen
+10. [ ] The s-Block Elements
+11. [ ] The p-Block Elements
+12. [ ] Organic Chemistry – Some Basic Principles and Techniques
+13. [ ] Hydrocarbons
+14. [ ] Environmental Chemistry
+
+## Biology Syllabus
