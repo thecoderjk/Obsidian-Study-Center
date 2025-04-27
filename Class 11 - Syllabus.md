@@ -68,5 +68,3 @@
 17. [ ] Locomotion and Movement
 18. [ ] Neural Control and Coordination
 19. [ ] Chemical Coordination and Integration
-
-Math
