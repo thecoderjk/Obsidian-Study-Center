@@ -37,8 +37,8 @@
 
 ### Unit I: Diversity of Living Organisms
 
-1. [ ] The Living World
-2. [ ] Biological Classification
+1. [x] The Living World
+2. [x] Biological Classification
 3. [ ] Plant Kingdom
 4. [ ] Animal Kingdom
 
@@ -68,3 +68,5 @@
 17. [ ] Locomotion and Movement
 18. [ ] Neural Control and Coordination
 19. [ ] Chemical Coordination and Integration
+
+Math
