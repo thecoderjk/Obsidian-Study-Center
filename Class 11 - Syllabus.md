@@ -34,3 +34,37 @@
 14. [ ] Environmental Chemistry
 
 ## Biology Syllabus
+
+### Unit I: Diversity of Living Organisms
+
+1. [ ] The Living World
+2. [ ] Biological Classification
+3. [ ] Plant Kingdom
+4. [ ] Animal Kingdom
+
+### Unit II: Structural Organisation in Plants and Animals
+
+5. [ ] Morphology of Flowering Plants
+6. [ ] Anatomy of Flowering Plants
+7. [ ] Structural Organisation in Animals
+
+### Unit III: Cell: Structure and Function
+
+8. [ ] Cell: The Unit of Life
+9. [ ] Biomolecules
+10. [ ] Cell Cycle and Cell Division
+
+### Unit IV: Plant Physiology
+
+11. [ ] Photosynthesis in Higher Plants
+12. [ ] Respiration in Plants
+13. [ ] Plant Growth and Development
+
+### Unit V: Human Physiology
+
+14. [ ] Breathing and Exchange of Gases
+15. [ ] Body Fluids and Circulation
+16. [ ] Excretory Products and Their Elimination
+17. [ ] Locomotion and Movement
+18. [ ] Neural Control and Coordination
+19. [ ] Chemical Coordination and Integration
